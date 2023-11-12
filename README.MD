@@ -4,8 +4,8 @@
 C:\source\SPRING_nginx\conf
 По пути мы имеем:
 
-1) файл настроек nginx nginx.conf
+1.) файл настроек nginx nginx.conf
 
-2)Файл запуска start
+2.)Файл запуска start
 
-3)файл остановки stop
+3.)файл остановки stop
