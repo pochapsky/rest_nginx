@@ -1,0 +1,14 @@
+GET localhost:8080/authorize?user=Alex&password=qwerty
+Content-Type: application/json
+
+###
+
+GET localhost:8080/authorize?user=Maxim&password=pass
+Content-Type: application/json
+
+###
+
+GET localhost:8080/authorize?user= &password=
+Content-Type: application/json
+
+###
